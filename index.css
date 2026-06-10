@@ -7,17 +7,17 @@ h1{
     text-align: center;
     color: darkblue;
 }
+img{
+    width: 150px;
+    height: 150px;
+}
 .hand{
     background-color: white;
     border: 4px solid brown;
     border-radius: 15px;
     padding: 15px;
     margin-bottom: 20px;
-    text-align: center;
-}
-.hand img{
-    width: 150;
-    height: 100;
+    
 }
 .hand button{
     background-color: brown;
@@ -38,12 +38,9 @@ h1{
     border-radius: 15px;
     padding: 15px;
     margin-bottom: 20px;
-    text-align: center;
+    
 }
-.fashion img{
-    width: 150;
-    height: 100;
-}
+
 .fashion button{
     background-color: orange;
     border: none;
@@ -64,10 +61,6 @@ h1{
     margin-bottom: 20px;
     
 }
-.care img{
-    width: 150;
-    height: 100;
-}
 .care button{
     background-color: blue;
     border: none;
@@ -86,11 +79,7 @@ h1{
     border-radius: 15px;
     padding: 15px;
     margin-bottom: 20px;
-    text-align: center;
-}
-.gifts img{
-    width: 150;
-    height: 100;
+    
 }
 .gifts button{
     background-color: purple;
@@ -111,10 +100,6 @@ h1{
     padding: 15px;
     margin-bottom: 20px;
     box-shadow: 5px 5px 10px gray;
-}
-.journey img{
-    width: 150;
-    height: 100;
 }
 .journey button{
     background-color: teal;
